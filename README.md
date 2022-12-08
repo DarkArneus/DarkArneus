@@ -6,6 +6,7 @@
 - 📫 How to reach me **darkarneus03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img src="/home/darkarneus/Downloads/University-CTF-2022-Quals-SrKappa.pdf"
 <p align="left">
 <a href="https://twitter.com/darkarneus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkarneus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnau sola lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnau sola lópez" height="30" width="40" /></a>
