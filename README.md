@@ -5,9 +5,8 @@
 
 - 📫 How to reach me **darkarneus03@gmail.com**
 
-- My last CTF:
-<p style="text-align:center;"><img height="396" width="561" alt="htb_cert" src="https://raw.githubusercontent.com/DarkArneus/DarkArneus/main/Media/cert_universityCTF2022.PNG">
-</p>
+<img align="right" height="396" width="561" alt="htb_cert" src="https://raw.githubusercontent.com/DarkArneus/DarkArneus/main/Media/cert_universityCTF2022.PNG">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darkarneus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkarneus" height="30" width="40" /></a>
