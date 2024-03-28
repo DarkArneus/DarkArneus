@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnau Sola</h1>
 <h3 align="center">Telecommunications Technologies and Services Engineering student passionate about cybersecurity</h3>
 
-- 🌱 I’m currently learning **web pentesting, malware development and hacking in general.**
+- 🌱 I’m currently learning **web pentesting and hacking in general.**
 
 - 📫 How to reach me **darkarneus03@gmail.com**
 
@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/darkarneus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkarneus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnau sola lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnau sola lópez" height="30" width="40" /></a>
-<a href="https://instagram.com/arnau_sola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnau_sola" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
